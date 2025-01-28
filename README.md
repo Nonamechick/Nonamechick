@@ -1,5 +1,15 @@
 # 🏄‍♂️ Nonamechick
 
+![dancing-dog](https://github.com/user-attachments/assets/d8276653-d705-446c-a019-29b221213875)
+![good-morning](https://github.com/user-attachments/assets/e8aef383-2348-41cb-b643-d94850080cdf)
+![cat-dance-dancing-cat](https://github.com/user-attachments/assets/e06f59c0-9416-4226-99fb-54e453e1971c)
+![skynet-skyboy](https://github.com/user-attachments/assets/e1900397-74e4-4230-97d7-b85d01a3f17f)
+
+
+
+
+
+
 **`Digital Craftsman (Web Developer)`**
 
 🚀 Building the digital universe one pixel at a time | 🧩 Frontend Explorer  
