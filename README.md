@@ -108,6 +108,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/huytamplavalipizda)  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xasan123456)
 [![W3Schools](https://img.shields.io/badge/W3Schools-08a04b?style=for-the-badge&logo=w3schools&logoColor=white)](https://www.w3profile.com/khasan)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Nonamechik)
+
 
 
 
