@@ -69,6 +69,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonamechick&show_icons=true&bg_color=00000000)](https://github.com/Nonamechick/github-readme-stats&show_icons=true&bg_color=00000000)
 
+![Codewars](https://github.r2v.ch/codewars?user=Nonamechik&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
 </div>
 
 ---
