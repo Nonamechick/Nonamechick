@@ -2,66 +2,69 @@
 
 <img src="https://github.com/user-attachments/assets/c5d7dff4-2ee4-4594-807d-10567555a55a" width="550">
 
-**`Frontend Specialist | UI Engineer`**
+**`Frontend Developer `**
 
 ✨ Crafting pixel-perfect experiences | 🚀 Performance enthusiast  
 🌱 Currently exploring: WebGL shaders & Advanced CSS animations  
 ⚡ Fun fact: I dream in React components
 
----
-
 ### 🛠️ Tech Stack
 
-#### 📚 Core Technologies
+#### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### ⚛️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-#### 🎨 Styling & Design
+#### 🖥️ Backend & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+#### 🐧 Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### 🎨 Design & Styling
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-#### ✨ Animation & Effects
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+#### ☁️ Deployment & Hosting
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-#### 🛠️ Tools
+#### 🔌 Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 
+### 🧠 Currently Mastering
 
-### 📈 GitHub Stats
+#### Database & Backend Technologies
+- **MongoDB**: NoSQL database design, aggregation pipelines
+- **GraphQL**: Schema design, query optimization
+- **PostgreSQL**: Advanced querying, relational modeling
 
-<div align="center">
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonamechick&layout=compact&theme=vision-friendly-dark)
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonamechick&show_icons=true&bg_color=00000000)](https://github.com/Nonamechick/github-readme-stats&show_icons=true&bg_color=00000000)
-
-![Codewars](https://github.r2v.ch/codewars?user=Nonamechik&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-
-</div>
-
----
-
-### 🧠 Currently Learning
-
-- Advanced WebGL shaders
-- React performance optimization
-- Micro-interactions design patterns
-- Accessibility best practices
+#### Full-Stack Architecture
+- **MERN Stack**: End-to-end development (MongoDB, Express, React, Node.js)
+- **API Design**: RESTful principles, performance optimization
+- **Database Integration**: Seamless frontend-backend data flow
 
 ---
 
