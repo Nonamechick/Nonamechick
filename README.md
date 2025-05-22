@@ -39,25 +39,18 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
 
-### 🔥 Featured Project
 
-#### [AUT Library Prototype](https://nonamechick.github.io/AUT-library-prototype/)
-Modern digital library interface with immersive elements  
-▸ **Tech Used**: React, Three.js, GSAP animations  
-▸ **Features**: 3D book previews, smooth transitions  
-▸ **Focus**: User experience & performance optimization
+### 📈 GitHub Stats
 
----
+<div align="center">
 
-### 📊 GitHub Insights
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonamechick&layout=compact&theme=vision-friendly-dark)
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonamechick&layout=compact&theme=nightowl&hide_border=true&hide=python,java)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonamechick&show_icons=true&bg_color=00000000)](https://github.com/Nonamechick/github-readme-stats&show_icons=true&bg_color=00000000)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nonamechick&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true)
+![Codewars](https://github.r2v.ch/codewars?user=Nonamechik&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 </div>
 
