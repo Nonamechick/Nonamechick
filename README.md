@@ -1,7 +1,5 @@
 # 🏄‍♂️ Nonamechick
 
-<img src="https://github.com/user-attachments/assets/c5d7dff4-2ee4-4594-807d-10567555a55a" width="550">
-
 **`Frontend Developer `**
 
 ✨ Crafting pixel-perfect experiences | 🚀 Performance enthusiast  
